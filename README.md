@@ -9,7 +9,7 @@
 
 
 ## Demo Tailscale on an OpenShift cluster
-In
+This demo is based on the Tailscale example for Kubernetes - [https://github.com/tailscale/tailscale/tree/main/docs/k8s](https://github.com/tailscale/tailscale/tree/main/docs/k8s).
 
 ### Pre-req
 
