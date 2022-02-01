@@ -4,8 +4,12 @@
   Every device is assigned a static IP and domain regardless of how you are connected to the internet.  It essentially mimics a local network
   for any device regardless of where you are.
 
+## Blog links
+Here are a few blog posts that I found extremely helpful.
+
 - [How Tailscale works](https://tailscale.com/blog/how-tailscale-works/)
 - [How NAT traversal works](https://tailscale.com/blog/how-nat-traversal-works/)
+- [You can use Tailscale with Kubernetes, you know](https://tailscale.com/blog/kubecon-21/)
 
 
 ## Demo Tailscale on an OpenShift cluster
